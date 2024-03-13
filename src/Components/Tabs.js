@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Box, Stack, Paper } from "@mui/material";
 import ButtonComponent from "./Controls/ButtonComponent";
-import filterImage from "./Assets/filter.png";
+import filterImage from "../Assets/filter.png";
 function Tabs() {
   return (
     <Box>
